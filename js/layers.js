@@ -76,7 +76,7 @@ addLayer("plus", {
             title: "Slight Lifting",
             description: "Double the plus softcap",
             cost: new Decimal(90),
-            unlocked() {return hasUpgrade("plus", 11)}
+            unlocked() {return hasUpgrade("plus", 21)}
         },
         13: {
             title: "Add Again",
